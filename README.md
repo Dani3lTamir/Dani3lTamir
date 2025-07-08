@@ -21,17 +21,17 @@
 ---
 
 📈 **GitHub Stats**.  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dani3lTamir&show_icons=true&theme=radical)
 
 ---
 
 ✨ **Featured Projects**
-1. **[BIOFIGHTERS_DEV](#)**: Educational Singleplayer & Multiplayer gaming expirience about the Immune system.  
-2. **[Greatflix](#)**: A Full-stack developed streaming platform with a slick design and sophisticated recommendation algorithms.  
+1. **BIOFIGHTERS**: Educational Singleplayer & Multiplayer gaming expirience about the Immune system.  
+2. **Greatflix**: A Full-stack developed streaming platform with a slick design and sophisticated recommendation algorithms.  
 
 
 ---
 
 🚀 **Let's Connect** 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel--tamir/)  [![Portfolio](https://img.shields.io/badge/-Portfolio-663399?style=flat&logoColor=white)](mailto:danieltamir4321@gmail.com) [![Email](https://img.shields.io/badge/Email-Me)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel--tamir/) [![Email](https://img.shields.io/badge/Email-Me)](danieltamir4321@gmail.com)  
