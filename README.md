@@ -26,10 +26,11 @@
 ---
 
 ✨ **Featured Projects**
-1. **[Project Name](#)**: Brief description of the project.  
-   ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white) ![Live Demo](https://img.shields.io/badge/-Live_Demo-BD93F9?style=flat)
-2. **[Another Project Name](#)**: Brief description of the project.  
+1. **BIOFIGHTERS(#)**: Educational Singleplayer & Multiplayer gaming expirience about the Immune system.  
+   ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white) ![Live Demo](https://youtu.be/q_wB3F5ZDRw?si=WdErPliMVBe1W2Z8)
+2. **[Greatflix](#)**: A Full-stack developed streaming platform with a slick design and sophisticated recommendation algorithms.  
    ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white)
+
 
 ---
 
