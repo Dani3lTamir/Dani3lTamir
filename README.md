@@ -26,10 +26,8 @@
 ---
 
 ✨ **Featured Projects**
-1. **BIOFIGHTERS(#)**: Educational Singleplayer & Multiplayer gaming expirience about the Immune system.  
-   ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white) ![Live Demo](https://youtu.be/q_wB3F5ZDRw?si=WdErPliMVBe1W2Z8)
+1. **[BIOFIGHTERS_DEV](#)**: Educational Singleplayer & Multiplayer gaming expirience about the Immune system.  
 2. **[Greatflix](#)**: A Full-stack developed streaming platform with a slick design and sophisticated recommendation algorithms.  
-   ![Technology](https://img.shields.io/badge/-TechnologyName-XXXXXX?style=flat&logo=tech&logoColor=white)
 
 
 ---
